@@ -1,2 +1,2 @@
 # Queue-Template
-Implementation of a queue template class using linked list as its underlying representation.
+Implementation of a queue template class using a linked list as its underlying representation.
